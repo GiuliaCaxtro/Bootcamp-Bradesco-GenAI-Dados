@@ -7,3 +7,10 @@ peso_ideal_max = 24.9 * (altura ** 2)
 print(f"Olá, {nome}!")
 print(f"Seu IMC é: {imc:.2f}")
 print(f"Seu peso ideal esta entre {peso_ideal_min:.2f} kg e {peso_ideal_max:.2f} kg.")
+
+#separadores e terminadores
+#print(nome,altura)
+#print(nome,altura,end="...")
+#print(nome,altura,sep="#")
+#print(nome,altura,,end="...\n")
+#print(nome,altura,sep="#",end="...\n")
